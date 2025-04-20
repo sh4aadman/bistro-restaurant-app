@@ -11,3 +11,7 @@
   font-family: "Cinzel", serif;
   font-optical-sizing: auto;
 }
+
+a.active {
+  color: #EEFF25;
+}

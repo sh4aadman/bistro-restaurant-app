@@ -11,7 +11,7 @@ const Footer = () => {
     <footer>
       <div className="flex justify-center">
         <section className="bg-[#1F2937] w-1/2 text-center py-20">
-          <h3 className="font-medium text-3xl text-[#FFFFFF]">Contact us</h3>
+          <h3 className="uppercase font-medium text-3xl text-[#FFFFFF]">Contact us</h3>
           <p className="font-light text-xl text-[#FFFFFF] mt-5 leading-[1.8]">
             123 ABS Street, Uni 21, Bangladesh <br /> +88 123456789 <br /> Mon -
             Fri: 08:00 - 22:00 <br /> Sat - Sun: 10:00 - 23:00
